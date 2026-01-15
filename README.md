@@ -92,7 +92,6 @@ This demonstrates how **time-series forecasting can move beyond prediction to su
 
  stockpriceanalysis.pdf — final dissertation report
 
-assets/ — visual outputs (forecast plots & clustering)
 
 ## Data Note
 
